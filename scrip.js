@@ -12,6 +12,6 @@ function insirirNome(){
  let aluno1 ={
     nome: 'Ana Paula',
     idade: 17,
-    anoLetivo: 'Universidade',
+    anoLetivo: 'Ensino Fundamental',
     meteriasFavoritas:['Educação Física', 'Programação', 'Biologia',]
  }
