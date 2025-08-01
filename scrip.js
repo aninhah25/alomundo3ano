@@ -9,3 +9,9 @@ function insirirNome(){
  lista.textContent =linguagens(0);
  lista.textContent =linguagens(1);
  lista.textContent =linguagens(2);
+ let aluno1 ={
+    nome: 'Ana Paula',
+    idade: 17,
+    anoLetivo: 'Universidade',
+    meteriasFavoritas:['Educação Física', 'Programação', 'Biologia',]
+ }
